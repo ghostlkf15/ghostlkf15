@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [ghostlkf15]
+# ¡Hola! 👋 Soy ghostlkf15
 
 ### Desarrollador de Software | Especialista en C++, C#, Java, JavaScript
 
